@@ -6,7 +6,12 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            //var sharpSix = new SharpSixNewFeature();
+            //sharpSix.Show();
+            var sharpSeven = new SharpSevenNewFeatures();
+            sharpSeven.Show();
+            Console.Read();
+
         }
     }
 }

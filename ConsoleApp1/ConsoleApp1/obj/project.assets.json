@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\my_projects\\NetCoreBasic\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectUniqueName": "D:\\my_projects\\NetCore_Basic\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
       "projectName": "ConsoleApp1",
-      "projectPath": "D:\\my_projects\\NetCoreBasic\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectPath": "D:\\my_projects\\NetCore_Basic\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
       "packagesPath": "C:\\Users\\QSG\\.nuget\\packages\\",
-      "outputPath": "D:\\my_projects\\NetCoreBasic\\ConsoleApp1\\ConsoleApp1\\obj\\",
+      "outputPath": "D:\\my_projects\\NetCore_Basic\\ConsoleApp1\\ConsoleApp1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
