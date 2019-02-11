@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27703.2026
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{EA4DF1D0-BCF3-4E2F-AB66-D84FC2314068}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{EA4DF1D0-BCF3-4E2F-AB66-D84FC2314068}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JQ.NetCore2.2.MVC6", "JQ.NetCore2.2.MVC6\JQ.NetCore2.2.MVC6.csproj", "{B8CEA44A-6340-453F-977F-758C28F90306}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetCore2.2", "NetCore2.2\NetCore2.2.csproj", "{52F359D6-A1EC-4E0B-8BE1-86F614840AD5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{EA4DF1D0-BCF3-4E2F-AB66-D84FC2314068}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EA4DF1D0-BCF3-4E2F-AB66-D84FC2314068}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EA4DF1D0-BCF3-4E2F-AB66-D84FC2314068}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8CEA44A-6340-453F-977F-758C28F90306}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8CEA44A-6340-453F-977F-758C28F90306}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8CEA44A-6340-453F-977F-758C28F90306}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8CEA44A-6340-453F-977F-758C28F90306}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52F359D6-A1EC-4E0B-8BE1-86F614840AD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52F359D6-A1EC-4E0B-8BE1-86F614840AD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52F359D6-A1EC-4E0B-8BE1-86F614840AD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52F359D6-A1EC-4E0B-8BE1-86F614840AD5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
